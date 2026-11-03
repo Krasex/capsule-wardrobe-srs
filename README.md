@@ -4,4 +4,6 @@
 
 [Ссылка на Техническое задание (Wiki)](https://github.com/Krasex/capsule-wardrobe-srs/wiki/Техническое-задание)
 
+Лабораторная работа №2. Планирование проекта и управление командой.
+
 [Ссылка на План проекта (Wiki)](https://github.com/Krasex/capsule-wardrobe-srs/wiki/%D0%9F%D0%BB%D0%B0%D0%BD-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
